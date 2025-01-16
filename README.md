@@ -10,7 +10,7 @@
   - Participo de um projeto de arrecadação de cestas básicas em minha comunidade que ocorre geralmente no natal com o objetivo de garantir um natal digno à população carente da cidade. Esse projeto é muito enriquecedor pois, além de ajudar pessoas, é muito importante para o meu desenvolvimento pessoal, porque nele aprendi a trabalhar em grupo e a lidar com pessoas diferentes.
 - Acredito que a programação é uma ferramenta poderosa de transformação social.
 
-### Tecnologias que uso.
+### Tecnologias utilizadas.
 
 <div style= "display: inline_block"><br/>
     <img align='center' alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
