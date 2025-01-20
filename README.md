@@ -8,8 +8,8 @@
 ![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=fr4ncisco7&show_icons=true&theme=radical)
 
 
-  - Participo de um projeto de arrecadação de cestas básicas em minha comunidade que ocorre geralmente no natal com o objetivo de garantir um natal digno à população carente da cidade. Esse projeto é muito enriquecedor pois, além de ajudar pessoas, é muito importante para o meu desenvolvimento pessoal, porque nele aprendi a trabalhar em grupo e a lidar com pessoas diferentes.
-- Acredito que a programação é uma ferramenta poderosa de transformação social.
+  - Entusiasta de projetos sociais.
+  - Acredito que a programação é uma ferramenta poderosa de transformação social.
 
 ### Tecnologias utilizadas.
 
